@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: libs\asm-6.0.jar libs\jstl-1.2.jar libs\libfptr10.jar libs
+ \ecj-3.12.3.jar libs\asm-tree-6.0.jar libs\AtolWebServer.jar libs\asm
+ -commons-6.0.jar libs\json-simple-1.1.jar libs\log4j-api-2.10.0.jar l
+ ibs\jetty-schemas-3.1.jar libs\log4j-core-2.10.0.jar libs\apache-el-8
+ .5.24.2.jar libs\javax.el-3.0.1-b11.jar libs\sqlite-jdbc-3.25.1.jar l
+ ibs\apache-jsp-8.5.24.2.jar libs\javax.servlet-api-3.1.0.jar libs\jav
+ ax.servlet.jsp-2.3.2.jar libs\javax.annotation-api-1.2.jar libs\jetty
+ -io-9.4.9.v20180320.jar libs\jetty-xml-9.4.9.v20180320.jar libs\apach
+ e-jsp-9.4.9.v20180320.jar libs\jetty-http-9.4.9.v20180320.jar libs\je
+ tty-jndi-9.4.9.v20180320.jar libs\jetty-jsp-9.2.24.v20180105.jar libs
+ \jetty-plus-9.4.9.v20180320.jar libs\jetty-util-9.4.9.v20180320.jar l
+ ibs\javax.servlet.jsp-api-2.3.1.jar libs\javax.servlet.jsp.jstl-1.2.2
+ .jar libs\jetty-client-9.4.9.v20180320.jar libs\jetty-server-9.4.9.v2
+ 0180320.jar libs\jetty-webapp-9.4.9.v20180320.jar libs\jetty-servlet-
+ 9.4.9.v20180320.jar libs\jetty-security-9.4.9.v20180320.jar libs\jett
+ y-servlets-9.4.9.v20180320.jar libs\jetty-annotations-9.4.9.v20180320
+ .jar libs\jetty-continuation-9.4.9.v20180320.jar libs\org.eclipse.jdt
+ .core-3.8.2.v20130121.jar libs\javax.servlet.jsp.jstl-1.2.0.v20110521
+ 1821.jar
+Main-Class: ru.nsg.atol.drivers10.webserver.Main
+
